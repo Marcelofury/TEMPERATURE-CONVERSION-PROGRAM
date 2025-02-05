@@ -1,2 +1,3 @@
 # TEMPERATURE-CONVERSION-PROGRAM
-Using HTML and JAVASCRIPT, changing Fahrenheit to Celcius and Vice-versa
+Using HTML, CSS and JAVASCRIPT, changing Fahrenheit to Celcius and Vice-versa
+
